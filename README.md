@@ -1,4 +1,4 @@
-# **Weather Planner
+# Weather Planner
 
 ## An Easy Look at Upcomming Forecasts
 
